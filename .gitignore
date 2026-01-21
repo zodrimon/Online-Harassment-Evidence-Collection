@@ -16,4 +16,4 @@ obj/
 *.ldf
 
 # Optional database backup
-*.bacpac
+#*.bacpac
